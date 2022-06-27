@@ -67,12 +67,10 @@ A fin de dotar al framework de una estructura que lo haga más inteligible, la G
 En la siguiente tabla resumimos a quien compete la creación y adhesión a cada uno de los compromisos:
 
 
-Compromiso	                                          
-¿Quién lo crea?               
-¿Quién se adhiere?
+**Compromiso  //    ¿Quién lo crea?   //    ¿Quién se adhiere?**
 
-1. Product Goal, asociado al Product Backlog.   //   El Product Owner.  // El Equipo Scrum.
-2. Sprint Goal, asociado al Sprint Backlog.     //	 El Equipo Scrum.  //  Los desarrolladores.
-3. Definición de Hecho, asociada al Incremento.	//   El Equipo Scrum.  //  Los desarrolladores.                                             
+Product Goal, asociado al Product Backlog.   //   El Product Owner.  // El Equipo Scrum.
+Sprint Goal, asociado al Sprint Backlog.     //	 El Equipo Scrum.  //  Los desarrolladores.
+Definición de Hecho, asociada al Incremento.	//   El Equipo Scrum.  //  Los desarrolladores.                                             
                                                       	
 
