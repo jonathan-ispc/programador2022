@@ -29,7 +29,7 @@ debe mejorar para la próxima iteración. De ninguna manera se centra en lo que 
 
 # Artefactos en Scrum
 
-Los artefactos Scrum representan trabajo o valor y contribuyen a generar transparencia, dado que pueden ser inspeccionados y adaptados.
+Los artefactos Scrum representan trabajo o valor y contribuyen a generar transparencia, dado que pueden ser inspeccionados y adaptados..
 
 Los artefactos son tres: el Product Backlog o Pila de Producto, el Sprint Backlog y el Incremento de producto. Cada uno de los artefactos tiene un compromiso asociado.
 
