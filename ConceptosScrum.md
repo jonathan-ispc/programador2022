@@ -67,6 +67,7 @@ A fin de dotar al framework de una estructura que lo haga más inteligible, la G
 En la siguiente tabla resumimos a quien compete la creación y adhesión a cada uno de los compromisos:
 
 
+
 Compromiso	                                          ¿Quién lo crea?               ¿Quién se adhiere?
 Product Goal, asociado al Product Backlog.	          El Product Owner	             El Equipo Scrum
 Sprint Goal, asociado al Sprint Backlog	              El Equipo Scrum	               Los desarrolladores
