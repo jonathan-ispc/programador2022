@@ -43,7 +43,7 @@ Es el plan de trabajo de los Desarrolladores para el Sprint, que incluye: el Spr
 Es la iteración de producto que ha de obtenerse en cada Sprint, que incluye tanto la funcionalidad añadida durante el Sprint como la ya creada en los Sprints anteriores.
 
 
-# Roles en Scrum:
+# Roles en Scrum
 
 ● **Scrum master**: Persona que lidera al equipo guiándolo para que cumpla las reglas y procesos de la metodología. Gestiona la reducción de impedimentos del proyecto y trabaja con el Product Owner para maximizar el ROI. 
 
