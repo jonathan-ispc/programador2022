@@ -70,7 +70,9 @@ En la siguiente tabla resumimos a quien compete la creación y adhesión a cada 
 **Compromiso  //    ¿Quién lo crea?   //    ¿Quién se adhiere?**
 
 Product Goal, asociado al Product Backlog.   //   El Product Owner.  // El Equipo Scrum.
+
 Sprint Goal, asociado al Sprint Backlog.     //	 El Equipo Scrum.  //  Los desarrolladores.
+
 Definición de Hecho, asociada al Incremento.	//   El Equipo Scrum.  //  Los desarrolladores.                                             
                                                       	
 
