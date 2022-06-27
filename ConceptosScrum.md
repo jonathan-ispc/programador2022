@@ -1,6 +1,6 @@
 # programador2022
 
-# Cuáles son las ceremonias de Scrum:
+# Cuáles son las ceremonias de Scrum
 
 ● **Sprint Planning Meeting (reunión de planificación del sprint).** Se produce al iniciar cada
 Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
@@ -52,7 +52,7 @@ Es la iteración de producto que ha de obtenerse en cada Sprint, que incluye tan
 ● **Team:** Grupo de profesionales con los conocimientos técnicos necesarios y que desarrollan el proyecto de manera conjunta llevando a cabo las historias a las que se comprometen al inicio de cada sprint.
 
 
-# Compromisos en Scrum:
+# Compromisos en Scrum
 
 En Scrum, compromiso significa dar lo mejor de nosotros mismos y como equipo para conseguir el Sprint Goal (a corto plazo) y el Product Goal (a largo plazo), respetando la Definición de Hecho.  La palabra compromiso (commitment o commit).
 
@@ -64,8 +64,8 @@ A fin de dotar al framework de una estructura que lo haga más inteligible, la G
 
 ● Para el Incremento, el compromiso es la **Definición de Hecho**. La Definición de Done describe el estado del Incremento de Producto cuando este cumple con los estándares de calidad requeridos para tal producto. Si la Definición de Hecho no es definida por la organización, el Equipo Scrum debe dotarse de una (este es un cambio introducido por la Guía 2020, puesto que, hasta entonces, el Equipo de Desarrollo era el que debía crearla). Los desarrolladores deben adherirse a ella cuando trabajan en el Incremento durante el Sprint. Puedes leer más sobre la Definición de Hecho en este post.
 
-En la siguiente tabla resumimos a quien compete la creación y adhesión a cada uno de los compromisos:
 
+En la siguiente tabla resumimos a quien compete la creación y adhesión a cada uno de los compromisos:
 
 **Compromiso  //    ¿Quién lo crea?   //    ¿Quién se adhiere?**
 
